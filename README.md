@@ -1,32 +1,68 @@
-<h1 align="center">Hi 👋, I'm Xueyan Hu</h1>
-<h3 align="center">A statistics student from the U.S.</h3>
+# Hello there! 👋 I'm Xueyan Hu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwayanhu&label=Profile%20views&color=0e75b6&style=flat" alt="shwayanhu" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Statistics+Student+%F0%9F%A7%AE;Mathematics+Enthusiast+%E2%9D%A4%EF%B8%8F;Data+Science+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwayanhu" alt="shwayanhu" /></a> </p>
-
-- 🔭 I’m currently working on **Bayesian record linkage**
-
-- 🌱 I’m currently learning **smooth manifolds, measure and integration**
-
-- 👨‍💻 All of my projects are available at [https://shwayanhu.netlify.app](https://shwayanhu.netlify.app)
-
-- 📝 I regularly write articles on [https://shwayanhu.netlify.app/blogs/](https://shwayanhu.netlify.app/blogs/)
-
-- 📫 How to reach me **xueyanhu1231@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://shwayanhu.netlify.app"><img src="https://img.shields.io/badge/-Homepage-E7EFC7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="https://shwayanhu.netlify.app/blogs/"><img src="https://img.shields.io/badge/-Blogs-8A784E?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="mailto:xueyanhu1231@outlook.com"><img src="https://img.shields.io/badge/-Email-3B3B1A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xueyanhu12t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xueyanhu12t" /></a></p><br><br>
+### 🔭 My current focus is 
+**Bayesian record linkage and simultaneous second stage analysis** - Exploring robust approaches to inference
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwayanhu&show_icons=true&locale=en&layout=compact" alt="shwayanhu" /></p>
+### 🌱 I'm currently learning
+- Smooth manifolds
+- Measure and integration
+- Advanced statistical modeling
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwayanhu&show_icons=true&locale=en" alt="shwayanhu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwayanhu&" alt="shwayanhu" /></p>
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin:10px"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:10px"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin:10px"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shwayanhu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwayanhu&layout=compact&langs_count=8&theme=algolia"/>
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwayanhu&theme=algolia" alt="shwayanhu" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=shwayanhu&theme=algolia&no-frame=true&row=1&column=7" alt="shwayanhu" />
+</p>
+
+---
+
+### ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/xueyanhu12t">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xueyanhu12t"/>
+  </a>
+</p>
