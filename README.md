@@ -1,39 +1,32 @@
+<h1 align="center">Hi 👋, I'm Xueyan Hu</h1>
+<h3 align="center">A statistics student from the U.S.</h3>
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shwayanhu&label=Profile%20views&color=0e75b6&style=flat" alt="shwayanhu" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shwayanhu" alt="shwayanhu" /></a> </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
-</div>
+- 🔭 I’m currently working on **Bayesian record linkage**
 
-###
+- 🌱 I’m currently learning **smooth manifolds, measure and integration**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShwayanHu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ShwayanHu&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://shwayanhu.netlify.app](https://shwayanhu.netlify.app)
 
-###
+- 📝 I regularly write articles on [https://shwayanhu.netlify.app/blogs/](https://shwayanhu.netlify.app/blogs/)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShwayanHu/ShwayanHu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShwayanHu/ShwayanHu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShwayanHu/ShwayanHu/output/pacman-contribution-graph.svg">
-</picture>
+- 📫 How to reach me **xueyanhu1231@outlook.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ShwayanHu/count.svg?"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coff.ee/xueyanhu12t) 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/xueyanhu12t"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xueyanhu12t" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwayanhu&show_icons=true&locale=en&layout=compact" alt="shwayanhu" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwayanhu&show_icons=true&locale=en" alt="shwayanhu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shwayanhu&" alt="shwayanhu" /></p>
