@@ -18,7 +18,7 @@
 ### 🌱 I'm currently learning
 - Smooth manifolds
 - Measure and integration
-- Advanced statistical modeling
+- Stochastic Processes
 
 ---
 
