@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Xueyan Hu
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Statistics+Student+%F0%9F%A7%AE;Mathematics+Enthusiast+%E2%9D%A4%EF%B8%8F;Data+Science+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Statistics+Student+%F0%9F%A7%AE;Mathematical+Analysis+Enthusiast+%E2%9D%A4%EF%B8%8F;Bayesian+Statistics+%F0%9F%93%9A;Stochastic+Process+%F0%9F%94%8D" alt="Typing SVG" />
 </h3>
 
 <p align="center">
