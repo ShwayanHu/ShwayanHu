@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 My current focus is 
-**Bayesian record linkage and simultaneous second stage analysis** - Exploring robust approaches to inference
+**Bayesian record linkage and simultaneous second stage analysis** - Exploring robust approaches of inference
 
 ### 🌱 I'm currently learning
 - Smooth manifolds
