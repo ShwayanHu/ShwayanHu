@@ -3,10 +3,9 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Statistics+Student+%F0%9F%A7%AE;Mathematical+Analysis+Enthusiast+%E2%9D%A4%EF%B8%8F;Bayesian+Statistics+%F0%9F%93%9A;Stochastic+Process+%F0%9F%94%8D" alt="Typing SVG" />
 </h3>
-
+https://sites.google.com/view/xueyanhu/bio
 <p align="center">
-  <a href="https://shwayanhu.netlify.app"><img src="https://img.shields.io/badge/-Homepage-E7EFC7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-  <a href="https://shwayanhu.netlify.app/blogs/"><img src="https://img.shields.io/badge/-Blogs-8A784E?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://sites.google.com/view/xueyanhu"><img src="https://img.shields.io/badge/-Homepage-E7EFC7?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <a href="mailto:xueyanhu1231@outlook.com"><img src="https://img.shields.io/badge/-Email-3B3B1A?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
